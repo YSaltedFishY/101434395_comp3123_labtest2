@@ -1,3 +1,11 @@
+# Documentation
+
+Screenshot files store in documentation folder
+
+# Lab test 02 
+
+Weather app that displays the current weather information base on city. Users may search for a city to update the weather information they view
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
